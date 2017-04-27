@@ -1,0 +1,15 @@
+import java.io.*;
+
+/*
+parser code {:
+:};*/
+	
+/* Terminals (tokens returned by the scanner). */
+terminal			
+
+/* Non-terminals */
+nonterminal	
+
+
+/* The grammar */
+
